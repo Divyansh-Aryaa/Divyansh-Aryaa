@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyansh Arya</h1>
 <h3 align="center">A passionate developer from India🇮🇳</h3>
 
-- 🌱 I’m currently learning **DSA in C++** and **Javascript**
+- 🌱 I’m currently learning **DSA in C++** and **FastAPIt**
 
 - 💬 Ask me about **Flutter, Dart**
 
