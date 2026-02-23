@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA in C++** and **FastAPI**
   
-- 💻 Doing Projects on **MachineLeaning** and **Artificial Intelligence**
+- 💻 Doing Projects on **MachineLearning** and **Artificial Intelligence**
 
 - 💬 Ask me about **AI/ML, Python**, **C++**
 
