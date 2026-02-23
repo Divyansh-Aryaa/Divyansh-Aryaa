@@ -2,8 +2,10 @@
 <h3 align="center">A passionate developer from India🇮🇳</h3>
 
 - 🌱 I’m currently learning **DSA in C++** and **FastAPIt**
+  
+- 💻 Doing Projects on **MachineLeaning** and **Artificial Intelligence**
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **AI/ML, Python**, **C++**
 
 - 📫 How to reach me **divyansh.arya073@gmail.com**
 
